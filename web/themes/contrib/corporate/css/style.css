@@ -7399,3 +7399,6 @@ p:last-child,
 .control-group .help-inline:first-child {
   margin-top: 0;
 }
+.navbar-header .region-navigation .logo img {
+  width: 15rem;
+}
