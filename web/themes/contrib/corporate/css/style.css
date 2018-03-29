@@ -7399,6 +7399,21 @@ p:last-child,
 .control-group .help-inline:first-child {
   margin-top: 0;
 }
+.navbar-default {
+  clear: both;
+}
 .navbar-header .region-navigation .logo img {
   width: 15rem;
+}
+.region-languages {
+  width: 100%;
+}
+.region-languages .language-switcher-language-url {
+  float: right;
+}
+.region-languages .language-switcher-language-url ul li {
+  display: inline-block;
+}
+.region-languages .language-switcher-language-url ul li a {
+  margin-right: 1rem;
 }

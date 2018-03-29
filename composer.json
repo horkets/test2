@@ -335,6 +335,7 @@
         "drupal/core": "~8.5",
         "drupal/devel": "^1.2",
         "drupal/honeypot": "^1.27",
+        "drupal/paragraphs": "^1.2",
         "drupal/webform": "^5.0@RC",
         "drush/drush": "^9.0.0",
         "jquery/geocomplete": "1.7.0",
